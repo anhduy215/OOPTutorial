@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Downloads\\src code\\c#\\OOPTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82FE9259-8D51-4B11-A2A8-207C0750E659}|OOPTutorial\\OOPTutorial.csproj|c:\\users\\acer\\downloads\\src code\\c#\\ooptutorial\\ooptutorial\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FE9259-8D51-4B11-A2A8-207C0750E659}|OOPTutorial\\OOPTutorial.csproj|solutionrelative:ooptutorial\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FE9259-8D51-4B11-A2A8-207C0750E659}|OOPTutorial\\OOPTutorial.csproj|c:\\users\\acer\\downloads\\src code\\c#\\ooptutorial\\ooptutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FE9259-8D51-4B11-A2A8-207C0750E659}|OOPTutorial\\OOPTutorial.csproj|solutionrelative:ooptutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FE9259-8D51-4B11-A2A8-207C0750E659}|OOPTutorial\\OOPTutorial.csproj|c:\\users\\acer\\downloads\\src code\\c#\\ooptutorial\\ooptutorial\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FE9259-8D51-4B11-A2A8-207C0750E659}|OOPTutorial\\OOPTutorial.csproj|solutionrelative:ooptutorial\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FE9259-8D51-4B11-A2A8-207C0750E659}|OOPTutorial\\OOPTutorial.csproj|c:\\users\\acer\\downloads\\src code\\c#\\ooptutorial\\ooptutorial\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FE9259-8D51-4B11-A2A8-207C0750E659}|OOPTutorial\\OOPTutorial.csproj|solutionrelative:ooptutorial\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FE9259-8D51-4B11-A2A8-207C0750E659}|OOPTutorial\\OOPTutorial.csproj|c:\\users\\acer\\downloads\\src code\\c#\\ooptutorial\\ooptutorial\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FE9259-8D51-4B11-A2A8-207C0750E659}|OOPTutorial\\OOPTutorial.csproj|solutionrelative:ooptutorial\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Abstraction.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\src code\\c#\\OOPTutorial\\OOPTutorial\\Abstraction.cs",
+              "RelativeDocumentMoniker": "OOPTutorial\\Abstraction.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\src code\\c#\\OOPTutorial\\OOPTutorial\\Abstraction.cs",
+              "RelativeToolTip": "OOPTutorial\\Abstraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:26:47.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inheritance.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\src code\\c#\\OOPTutorial\\OOPTutorial\\Inheritance.cs",
+              "RelativeDocumentMoniker": "OOPTutorial\\Inheritance.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\src code\\c#\\OOPTutorial\\OOPTutorial\\Inheritance.cs",
+              "RelativeToolTip": "OOPTutorial\\Inheritance.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:26:25.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Polymorphism.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\src code\\c#\\OOPTutorial\\OOPTutorial\\Polymorphism.cs",
+              "RelativeDocumentMoniker": "OOPTutorial\\Polymorphism.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\src code\\c#\\OOPTutorial\\OOPTutorial\\Polymorphism.cs",
+              "RelativeToolTip": "OOPTutorial\\Polymorphism.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:26:10.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Encapsulation.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\src code\\c#\\OOPTutorial\\OOPTutorial\\Encapsulation.cs",
+              "RelativeDocumentMoniker": "OOPTutorial\\Encapsulation.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\src code\\c#\\OOPTutorial\\OOPTutorial\\Encapsulation.cs",
+              "RelativeToolTip": "OOPTutorial\\Encapsulation.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwBcAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:19:26.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\src code\\c#\\OOPTutorial\\OOPTutorial\\Program.cs",
+              "RelativeDocumentMoniker": "OOPTutorial\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\src code\\c#\\OOPTutorial\\OOPTutorial\\Program.cs",
+              "RelativeToolTip": "OOPTutorial\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowDUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:09:09.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

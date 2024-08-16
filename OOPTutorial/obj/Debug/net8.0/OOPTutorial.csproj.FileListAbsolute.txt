@@ -1,0 +1,14 @@
+C:\Users\Acer\Downloads\src code\c#\OOPTutorial\OOPTutorial\obj\Debug\net8.0\OOPTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\src code\c#\OOPTutorial\OOPTutorial\obj\Debug\net8.0\OOPTutorial.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\src code\c#\OOPTutorial\OOPTutorial\obj\Debug\net8.0\OOPTutorial.AssemblyInfo.cs
+C:\Users\Acer\Downloads\src code\c#\OOPTutorial\OOPTutorial\obj\Debug\net8.0\OOPTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\src code\c#\OOPTutorial\OOPTutorial\bin\Debug\net8.0\OOPTutorial.exe
+C:\Users\Acer\Downloads\src code\c#\OOPTutorial\OOPTutorial\bin\Debug\net8.0\OOPTutorial.deps.json
+C:\Users\Acer\Downloads\src code\c#\OOPTutorial\OOPTutorial\bin\Debug\net8.0\OOPTutorial.runtimeconfig.json
+C:\Users\Acer\Downloads\src code\c#\OOPTutorial\OOPTutorial\bin\Debug\net8.0\OOPTutorial.dll
+C:\Users\Acer\Downloads\src code\c#\OOPTutorial\OOPTutorial\bin\Debug\net8.0\OOPTutorial.pdb
+C:\Users\Acer\Downloads\src code\c#\OOPTutorial\OOPTutorial\obj\Debug\net8.0\OOPTutorial.dll
+C:\Users\Acer\Downloads\src code\c#\OOPTutorial\OOPTutorial\obj\Debug\net8.0\refint\OOPTutorial.dll
+C:\Users\Acer\Downloads\src code\c#\OOPTutorial\OOPTutorial\obj\Debug\net8.0\OOPTutorial.pdb
+C:\Users\Acer\Downloads\src code\c#\OOPTutorial\OOPTutorial\obj\Debug\net8.0\OOPTutorial.genruntimeconfig.cache
+C:\Users\Acer\Downloads\src code\c#\OOPTutorial\OOPTutorial\obj\Debug\net8.0\ref\OOPTutorial.dll
